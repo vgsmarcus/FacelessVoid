@@ -1,2 +1,4 @@
 # FacelessVoid
- primeiro repositorio do curso de git e github
+ Primeiro repositorio do curso de Git e Github
+
+repositorio criando durante uma aula ao vivo
